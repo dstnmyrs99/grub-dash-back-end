@@ -8,11 +8,11 @@ module.exports = [
     dishes: [
       {
         id: "90c3d873684bf381dfab29034b5bba73",
-        name: "Falafel and tahini bagel",
-        description: "A warm bagel filled with falafel and tahini",
-        image_url:
-          "https://images.pexels.com/photos/4560606/pexels-photo-4560606.jpeg?h=530&w=350",
-        price: 6,
+    name: "Chocolate Brownies",
+    description: "A warm chocalate brownie covered with fudge",
+    price: 6,
+    image_url:
+      "https://www.cookingwithbooks.net/wp-content/uploads/2015/10/Ultimate-Triple-Chocolate-Brownie-750x500.jpg",
         quantity: 1,
       },
     ],
@@ -24,13 +24,12 @@ module.exports = [
     status: "delivered",
     dishes: [
       {
-        id: "d351db2b49b69679504652ea1cf38241",
-        name: "Dolcelatte and chickpea spaghetti",
-        description:
-          "Spaghetti topped with a blend of dolcelatte and fresh chickpeas",
-        image_url:
-          "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?h=530&w=350",
-        price: 19,
+        id: "3c637d011d844ebab1205fef8a7e36ea",
+    name: "Red Velvet Cupcake",
+    description: "A super delicious red velvet cupcake",
+    price: 15,
+    image_url:
+      "https://www.noracooks.com/wp-content/uploads/2020/02/IMG_0339.jpg",
         quantity: 2,
       },
     ],
